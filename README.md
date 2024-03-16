@@ -48,4 +48,4 @@ Contributions to improve the program are welcome. Please follow the standard pul
 
 ## License
 
-[MIT License](LICENSE.md)
+Just do as you please. it's yours
